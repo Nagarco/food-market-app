@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//nagarco.github.io/food-market-app/static/css/main.878585d8.css",
+    "main.js": "//nagarco.github.io/food-market-app/static/js/main.655e8741.js",
+    "static/js/787.5dc0e2a0.chunk.js": "//nagarco.github.io/food-market-app/static/js/787.5dc0e2a0.chunk.js",
+    "static/media/meals.jpg": "//nagarco.github.io/food-market-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "//nagarco.github.io/food-market-app/index.html",
+    "main.878585d8.css.map": "//nagarco.github.io/food-market-app/static/css/main.878585d8.css.map",
+    "main.655e8741.js.map": "//nagarco.github.io/food-market-app/static/js/main.655e8741.js.map",
+    "787.5dc0e2a0.chunk.js.map": "//nagarco.github.io/food-market-app/static/js/787.5dc0e2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.878585d8.css",
+    "static/js/main.655e8741.js"
+  ]
+}
